@@ -505,7 +505,7 @@
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - illion babel Sandbox video game.
 - [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
